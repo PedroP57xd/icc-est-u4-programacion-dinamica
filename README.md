@@ -14,6 +14,6 @@ Con esta practica pudimos comparar las distintas versiones del algoritmo de Fibo
 
 ## Evidencias
 ### Captura 1
-Inserta aquí la captura del código o de la ejecución.
-- Archivo: `assets/captur-tiempos.png`
+- Archivo: 
+![Captura de tiempos](assets/captura-tiempos.png)
 
